@@ -1,0 +1,41 @@
+// Data type specifies the type of data a variable can store.
+// Basically specifies memory size for the variable.
+//
+// # There are 4 Data types in C
+// 1. Basic
+// 2. Derived
+// 3. Enumeration
+// 4. Void
+//
+// # Basic Data Type:
+// 1. int     %i,%d     2 or 4 bytes     stores whole numbers
+//                 Range: -2,147,483,648 to 2,147,483,647
+//                     or (0 to 4,294,967,296)
+//
+// 2. float     %f        4 bytes        stores fractional numbers  6 digit accuracy
+//                   Range: -2,147,483,648 to 2,147,483,647
+//                     or (0 to 4,294,967,296) 
+//
+// 3. double    %lf       8 bytes        stores fractional numbers 15 digit accuracy
+//                  Range: -9.223372037×10¹⁸ to 9.223372036×10¹⁸
+//                     or (0 to 1.844674407×10¹⁹)
+//
+// 4. char      %c        1 byte         stores a single character or ASCII 
+//                 Range : (-128) to (127)
+//                  or (0 to 255)
+//
+// # Derived Data type:
+// 1. array
+// 2. pointer
+// 3. structure
+// 4. union
+//
+// # Enumeration Data Type:
+// 1. enum
+// 2. typedef
+//
+// #Void Data Type:
+//  void
+//  It's used to specify that no value is present.
+//  it can be used as function return type, argument and points to void [void *malloc(size_t size);]
+

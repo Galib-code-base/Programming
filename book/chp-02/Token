@@ -1,0 +1,9 @@
+Token are of 6 types in C
+1. Identifiers = Name it can be name of any thing shoud start with a _ or character only
+2. Keywords = Fixed names
+3. Constant = Can be any value or variable that stayes the same through out the run time of a program
+4. Variable = Name of a memory locatin that can hold any value
+    a. Local variable = Declared inside a function or block 
+    b. Global variable = Declared outside the function or block
+5. String = Array of character \0 at the end enclosed by "" 
+6. Operators = Specific symbole to perform functions 
